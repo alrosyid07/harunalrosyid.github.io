@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Workshop</title>
+</head>
+<body>
+	<nav style="background: red; >">
+		<ul style="list-style: none; ">
+			<li><a href="" style="text-decoration: none;">Home</a></li>
+			<li><a href="" style="text-decoration: none;">login</a></li>
+			<li><a href="" style="text-decoration: none;">About</a></li>
+		</ul>
+	</nav>
+	<div id="content">
+		<form>
+			<label>Nama
+			<br/>
+				<input type="text" >
+			</label>
+			<br/>
+			<label>Ktp
+			<br/>
+				<input type="text" >
+			</label>
+			<br/>
+			<label>Hobi</label>
+			<br/>
+			<label>
+				<input type="checkbox">minum
+			</label>
+			<br/>
+			<label>
+				<input type="checkbox">minum
+			</label>
+			<br/>
+			<label>
+				<input type="checkbox">minum
+			</label>
+			<br/>
+		</form>
+		
+	</div>
+</body>
+</html>
